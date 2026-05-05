@@ -1,8 +1,7 @@
 
 
 > "A programação é a melhor alquimia da mente humana. Transforma pensamentos em realidade." — *Alan Turing*[cite: 5]
->
-> Aqui está a lista completa das questões extraídas da sua atividade prática, prontas para serem adicionadas ao seu repositório[cite: 5]:
+
 
 ## 📝 Lista de Exercícios - Portugol Studio
 
